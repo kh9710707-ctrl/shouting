@@ -1,0 +1,7 @@
+{
+  "name": "Visual Experience Demo",
+  "description": "A demonstration of Apple-style scroll disassembly and interactive particle effects using React Three Fiber and GSAP.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
